@@ -190,8 +190,7 @@ UI Updated
 
 Frontend deployed on Vercel:
 
-https://blog-7qqpwuwxm-cognitiveking2007s-projects.vercel.app
-
+https://blog-app-jade-eta.vercel.app/
 Backend deployed on Render:
 
 https://blog-app-4eug.onrender.com
