@@ -138,9 +138,7 @@ Frontend deployed on Vercel:
 
 https://employee-week-6.vercel.app
 
-Backend deployed on Render:
-
-https://employee-week-6.onrender.com
+Backend deployed on Render
 
 Deployment stack:
 
