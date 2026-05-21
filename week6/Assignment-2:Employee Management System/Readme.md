@@ -136,7 +136,7 @@ Updated UI
 
 Frontend deployed on Vercel:
 
-https://employee-week-6-4nfjv9w0f-cognitiveking2007s-projects.vercel.app
+https://employee-week-6.vercel.app
 
 Backend deployed on Render:
 
